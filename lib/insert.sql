@@ -11,7 +11,7 @@ INSERT INTO bears (name, age, gender, color, temperament, alive)
 INSERT INTO bears (name, age, gender, color, temperament, alive)
   VALUES ("Grinch", 100, M, "purple", "cranky", true)
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-  VALUES ("Wendy")
+  VALUES ("Wendy", 2, F, "white", "nonchalant", true)
 INSERT INTO bears (age, gender, color, temperament, alive)
   VALUES ()
 
