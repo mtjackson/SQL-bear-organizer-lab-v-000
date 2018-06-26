@@ -12,7 +12,7 @@ INSERT INTO bears (name, age, gender, color, temperament, alive)
   VALUES ("Grinch")
 INSERT INTO bears (name, age, gender, color, temperament, alive)
   VALUES ("Wendy")
-INSERT INTO bears (name, age, gender, color, temperament, alive)
+INSERT INTO bears ( age, gender, color, temperament, alive)
   VALUES ("unnamed")
 
 d INTEGER,
