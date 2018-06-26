@@ -6,3 +6,11 @@ INSERT INTO bears (name) VALUES ("Melissa")
 INSERT INTO bears (name) VALUES ("Grinch")
 INSERT INTO bears (name) VALUES ("Wendy")
 INSERT INTO bears (name) VALUES ("unnamed")
+
+d INTEGER,
+name TEXT,
+age INTEGER,
+gender CHAR(1),
+color TEXT,
+temperament TEXT,
+alive BOO
