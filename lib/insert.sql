@@ -13,7 +13,7 @@ INSERT INTO bears (name, age, gender, color, temperament, alive)
 INSERT INTO bears (name, age, gender, color, temperament, alive)
   VALUES ("Wendy", 2, F, "white", "nonchalant", true)
 INSERT INTO bears (age, gender, color, temperament, alive)
-  VALUES ()
+  VALUES (10, M, "gold", "irritable", true)
 
 d INTEGER,
 name TEXT,
